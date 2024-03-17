@@ -53,6 +53,6 @@
 
 <ul>
   <li>
-    Money <img src="https://media.tenor.com/nSDeRB_kF4wAAAAi/fade-sad-emoji.gif" width="27">
+    Motivation <img src="https://media.tenor.com/nSDeRB_kF4wAAAAi/fade-sad-emoji.gif" width="27">
   </li>
 </ul>
