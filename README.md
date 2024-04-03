@@ -28,6 +28,9 @@
 
 <ul>
   <li>
+    TypeScript (basics)
+  </li>
+  <li>
     JavaScript
   </li>
   <li>
