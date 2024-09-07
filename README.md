@@ -12,13 +12,13 @@
 
 <ul>
   <li>
-    Polish
+    Polish (native)
   </li>
   <li>
-    German
+    German (fluent)
   </li>
   <li>
-    English
+    English (good)
   </li>
 </ul>
 
@@ -28,16 +28,16 @@
 
 <ul>
   <li>
-    TypeScript (basics)
+    TypeScript (excellent)
   </li>
   <li>
-    JavaScript
+    JavaScript (excellent)
   </li>
   <li>
-    C++
+    C++ (little)
   </li>
   <li>
-    AutoHotkey V1
+    AutoHotkey V1 (okay)
   </li>
 </ul>
 
