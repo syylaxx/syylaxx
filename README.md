@@ -10,52 +10,36 @@
   National Languages :
 </h3>
 
-<ul>
-  <li>
-    Polish (native)
-  </li>
-  <li>
-    German (fluent)
-  </li>
-  <li>
-    English (good)
-  </li>
-</ul>
+- Polish `(native Class)`
+
+- German `(extended Class)`
+
+- English `(abstract Class)`
 
 <h3>
   Programing Languages :
 </h3>
 
-<ul>
-  <li>
-    TypeScript (excellent)
-  </li>
-  <li>
-    JavaScript (excellent)
-  </li>
-  <li>
-    C++ (little)
-  </li>
-  <li>
-    AutoHotkey V1 (okay)
-  </li>
-</ul>
+
+- TypeScript `(++)`
+
+- JavaScript `(++)`
+
+- Python `(/)`
+
+- Java `(/)`
+
+- AutoHotkey V1 `(/)`
 
 <h2 align="center">
   What do I do?
 </h2>
 
-<p>
-  I am a Minecraft Script Developer, with a big Project incoming.<br>
-  Beside programing-world, I am just a student!
-</p>
+I am mainly a Minecraft Addon Developer with basic JSON-UI and advanced Script API knowledge.<br>
+Responsible of the `RockWrap` wrapper and partially the history of polish Bedrock Community!
 
 <h2 align="center">
   What do I need?
 </h2>
 
-<ul>
-  <li>
-    Motivation <img src="https://media.tenor.com/nSDeRB_kF4wAAAAi/fade-sad-emoji.gif" width="27">
-  </li>
-</ul>
+- Motivation <img src="https://media.tenor.com/nSDeRB_kF4wAAAAi/fade-sad-emoji.gif" width="27">
