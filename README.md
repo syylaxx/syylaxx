@@ -17,7 +17,7 @@
 - English `(abstract Class)`
 
 <h3>
-  Programing Languages :
+  Programming Languages :
 </h3>
 
 
@@ -36,7 +36,7 @@
 </h2>
 
 I am mainly a Minecraft Addon Developer with basic JSON-UI and advanced Script API knowledge.<br>
-Responsible of the `RockWrap` wrapper and partially the history of polish Bedrock Community!
+Responsible for the `RockWrap` wrapper and partially the history of polish Bedrock Community!
 
 <h2 align="center">
   What do I need?
